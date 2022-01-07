@@ -1,7 +1,6 @@
 package com.springframework.spring5jokesappv2.controllers;
 
 import com.springframework.spring5jokesappv2.services.JokeService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.RequestMapping;
